@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "route": "/xc_health_check",
+      "methods": [
+        "get"
+      ],
+      "statusCode": 200
+    }
+  ]
+}
